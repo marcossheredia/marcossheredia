@@ -308,10 +308,6 @@ Minimal PWA designed to organize wanted purchases, categories and completed item
 
 ---
 
-## Let's connect
-
-I am interested in software engineering opportunities and technical conversations around logistics, industrial systems, automation, backend development and secure software design.
-
 <div align="center">
 
 **Have a real operational problem that software could simplify? Let's talk.**
