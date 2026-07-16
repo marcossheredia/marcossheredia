@@ -20,25 +20,30 @@
 
 ## About me
 
-I am a **Software Developer working in the logistics sector**, where I build internal applications and technical solutions for real operational processes.
+<div align="center">
 
-My work combines backend development, web interfaces, databases and local infrastructure with increasingly industrial use cases: machine communication, live event monitoring, message-driven systems, SQL Server integration and tools designed to operate reliably inside controlled environments.
+### Software developer focused on logistics, industrial systems and automation
 
-I graduated as a **Higher Technician in Web Application Development (DAW)** and I currently focus on turning manual or fragmented workflows into maintainable software.
+I build **reliable internal tools, machine integrations and offline-first applications** that simplify real operational workflows.
 
-- Developing internal software for **logistics, office operations and industrial environments**
-- Building machine-facing integrations using **TCP protocols, RabbitMQ and WebSocket/STOMP**
-- Creating backend services and REST APIs with **Java and Spring Boot**
-- Developing reactive interfaces with **Svelte, Vue, Angular and React**
-- Building offline computer-vision services with **Python, FastAPI, PaddleOCR and OpenCV**
-- Creating Windows utilities with **C#, .NET and WinForms/WPF**
-- Working with **Microsoft SQL Server, PostgreSQL, MySQL, Supabase and S3-compatible storage**
-- Using Docker and Linux-based environments for reproducible local deployments
-- Based in Spain
+<br />
 
-> I am interested in software that removes friction from real processes, not software built only as a technical exercise.
+<img src="https://img.shields.io/badge/Logistics-Software-1F6FEB?style=for-the-badge" alt="Logistics software" />
+<img src="https://img.shields.io/badge/Industrial-Integration-7C3AED?style=for-the-badge" alt="Industrial integration" />
+<img src="https://img.shields.io/badge/Backend-APIs-0F766E?style=for-the-badge" alt="Backend and APIs" />
+<img src="https://img.shields.io/badge/Offline-OCR-C72E49?style=for-the-badge" alt="Offline OCR" />
 
----
+<br /><br />
+
+`Java` · `Spring Boot` · `Svelte` · `Python` · `C#` · `SQL Server` · `Docker`
+
+<br />
+
+**Higher Technician in Web Application Development (DAW)** · Based in Spain
+
+</div>
+
+> I build software to remove friction from real processes, not just to demonstrate technology.
 
 ## What I build
 
