@@ -45,40 +45,17 @@ I build **reliable internal tools, machine integrations and offline-first applic
 
 ## What I build
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Industrial monitoring and integration
-
-Applications that communicate with operational systems, interpret machine data, visualize live states and expose safe control or diagnostic workflows.
-
-</td>
-<td width="50%" valign="top">
-
-### Business and data tools
-
-Desktop and web utilities for importing, validating, transforming and querying operational data while reducing repetitive manual work.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Offline OCR and document processing
-
-Self-contained services for recognizing text and codes from logistics labels, images, PDFs and TIFF documents without depending on internet access.
-
-</td>
-<td width="50%" valign="top">
-
-### Full-stack and local-first platforms
-
-Authenticated applications with REST APIs, relational databases, responsive interfaces, containerized services and local or cloud-backed persistence.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(max-width: 700px)" srcset="./assets/what-i-build/what-i-build-mobile.svg" type="image/svg+xml" />
+    <source srcset="./assets/what-i-build/what-i-build.svg" type="image/svg+xml" />
+    <img
+      src="./assets/what-i-build/what-i-build.png"
+      width="100%"
+      alt="Four software development areas: industrial monitoring, business data tools, offline OCR and full-stack local-first platforms"
+    />
+  </picture>
+</p>
 
 ---
 

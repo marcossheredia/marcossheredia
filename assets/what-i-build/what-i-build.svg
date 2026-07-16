@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+<title id="title">Four software development areas</title>
+<desc id="desc">Industrial monitoring, business data tools, offline OCR and full-stack local-first platforms.</desc>
+<rect width="1600" height="600" fill="#FFFFFF" fill-opacity="0.01"/>
+<path d="M38 30 Q20 30 20 48 V552 Q20 570 38 570 H380 L430 300 L380 30 Z" fill="#EFF6FF" stroke="#B6D2FF" stroke-width="2"/>
+<circle cx="225.0" cy="112" r="58" fill="#FFFFFF" stroke="#B6D2FF" stroke-width="3"/>
+
+<g transform="translate(192.24 82.36) scale(0.78)" fill="none" stroke="#1F6FEB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="2" y="58" width="34" height="14" rx="5"/>
+  <circle cx="25" cy="50" r="9"/>
+  <path d="M31 43 L48 28 L61 40 L46 55"/>
+  <circle cx="49" cy="27" r="8"/>
+  <path d="M56 21 L70 11"/>
+  <path d="M66 7 L76 17"/>
+  <path d="M70 44 L79 52"/>
+  <path d="M72 35 Q84 42 86 55"/>
+  <path d="M76 26 Q94 37 96 58"/>
+</g>
+<line x1="54" y1="212" x2="367" y2="212" stroke="#B6D2FF" stroke-width="2"/>
+<circle cx="225.0" cy="212" r="25" fill="#1F6FEB"/>
+<text x="225.0" y="220" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">01</text>
+<text x="58" y="278" fill="#24292F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start"><tspan x="58" dy="0">Industrial monitoring</tspan><tspan x="58" dy="34">and integration</tspan></text>
+<text x="58" y="360" fill="#57606A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start"><tspan x="58" dy="0">Applications that communicate with</tspan><tspan x="58" dy="25">operational systems, interpret machine</tspan><tspan x="58" dy="25">data, visualize live states and expose</tspan><tspan x="58" dy="25">safe control or diagnostic workflows.</tspan></text>
+<line x1="56" y1="536" x2="368" y2="536" stroke="#1F6FEB" stroke-width="4" stroke-linecap="round"/>
+<circle cx="225.0" cy="536" r="8" fill="#1F6FEB" stroke="#FFFFFF" stroke-width="4"/>
+<path d="M410 30 H765 L815 300 L765 570 H410 L460 300 Z" fill="#EFFAF5" stroke="#BFE8D6" stroke-width="2"/>
+<circle cx="620.5" cy="112" r="58" fill="#FFFFFF" stroke="#BFE8D6" stroke-width="3"/>
+
+<g transform="translate(587.74 82.36) scale(0.78)" fill="none" stroke="#1F9D68" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M4 72 H84"/>
+  <rect x="10" y="46" width="14" height="26" rx="2"/>
+  <rect x="34" y="33" width="14" height="39" rx="2"/>
+  <rect x="58" y="18" width="14" height="54" rx="2"/>
+  <polyline points="8,45 31,30 48,34 72,10"/>
+  <polyline points="62,10 72,10 72,20"/>
+</g>
+<line x1="466" y1="212" x2="752" y2="212" stroke="#BFE8D6" stroke-width="2"/>
+<circle cx="620.5" cy="212" r="25" fill="#1F9D68"/>
+<text x="620.5" y="220" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">02</text>
+<text x="475" y="278" fill="#24292F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start"><tspan x="475" dy="0">Business and</tspan><tspan x="475" dy="34">data tools</tspan></text>
+<text x="475" y="360" fill="#57606A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start"><tspan x="475" dy="0">Desktop and web utilities for</tspan><tspan x="475" dy="25">importing, validating, transforming</tspan><tspan x="475" dy="25">and querying operational data while</tspan><tspan x="475" dy="25">reducing repetitive manual work.</tspan></text>
+<line x1="470" y1="536" x2="753" y2="536" stroke="#1F9D68" stroke-width="4" stroke-linecap="round"/>
+<circle cx="620.5" cy="536" r="8" fill="#1F9D68" stroke="#FFFFFF" stroke-width="4"/>
+<path d="M795 30 H1150 L1200 300 L1150 570 H795 L845 300 Z" fill="#F6F1FF" stroke="#DCCBFF" stroke-width="2"/>
+<circle cx="1005.5" cy="112" r="58" fill="#FFFFFF" stroke="#DCCBFF" stroke-width="3"/>
+
+<g transform="translate(972.74 80.8) scale(0.78)" fill="none" stroke="#7C3AED" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M18 4 H60 L78 22 V76 H18 Z"/>
+  <path d="M60 4 V22 H78"/>
+  <path d="M8 25 V12 H21"/>
+  <path d="M88 25 V12 H75"/>
+  <path d="M8 55 V68 H21"/>
+  <path d="M88 55 V68 H75"/>
+  <text x="48" y="52" fill="#7C3AED" stroke="none" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">OCR</text>
+</g>
+<line x1="851" y1="212" x2="1137" y2="212" stroke="#DCCBFF" stroke-width="2"/>
+<circle cx="1005.5" cy="212" r="25" fill="#7C3AED"/>
+<text x="1005.5" y="220" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">03</text>
+<text x="860" y="278" fill="#24292F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start"><tspan x="860" dy="0">Offline OCR and</tspan><tspan x="860" dy="34">document processing</tspan></text>
+<text x="860" y="360" fill="#57606A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start"><tspan x="860" dy="0">Self-contained services for</tspan><tspan x="860" dy="25">recognizing text and codes from</tspan><tspan x="860" dy="25">logistics labels, images, PDFs and</tspan><tspan x="860" dy="25">TIFF documents without depending</tspan><tspan x="860" dy="25">on internet access.</tspan></text>
+<line x1="855" y1="536" x2="1138" y2="536" stroke="#7C3AED" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1005.5" cy="536" r="8" fill="#7C3AED" stroke="#FFFFFF" stroke-width="4"/>
+<path d="M1180 30 H1562 Q1580 30 1580 48 V552 Q1580 570 1562 570 H1180 L1230 300 Z" fill="#FFF7ED" stroke="#FFD6B2" stroke-width="2"/>
+<circle cx="1380.0" cy="112" r="58" fill="#FFFFFF" stroke="#FFD6B2" stroke-width="3"/>
+
+<g transform="translate(1344.12 81.58) scale(0.78)" fill="none" stroke="#F97316" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M22 44 H70 C82 44 89 36 89 27 C89 17 81 10 71 10 C65 10 60 13 56 18 C52 9 44 4 34 4 C19 4 9 15 9 29 C9 38 14 44 22 44 Z"/>
+  <ellipse cx="31" cy="61" rx="17" ry="7"/>
+  <path d="M14 61 V75 C14 79 22 82 31 82 C40 82 48 79 48 75 V61"/>
+  <path d="M14 68 C14 72 22 75 31 75 C40 75 48 72 48 68"/>
+  <rect x="58" y="58" width="28" height="22" rx="4"/>
+  <path d="M64 58 V52 C64 44 80 44 80 52 V58"/>
+</g>
+<line x1="1236" y1="212" x2="1542" y2="212" stroke="#FFD6B2" stroke-width="2"/>
+<circle cx="1380.0" cy="212" r="25" fill="#F97316"/>
+<text x="1380.0" y="220" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">04</text>
+<text x="1245" y="278" fill="#24292F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" text-anchor="start"><tspan x="1245" dy="0">Full-stack and local-first</tspan><tspan x="1245" dy="34">platforms</tspan></text>
+<text x="1245" y="360" fill="#57606A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start"><tspan x="1245" dy="0">Authenticated applications with REST</tspan><tspan x="1245" dy="25">APIs, relational databases,</tspan><tspan x="1245" dy="25">responsive interfaces, containerized</tspan><tspan x="1245" dy="25">services and local or cloud-backed</tspan><tspan x="1245" dy="25">persistence.</tspan></text>
+<line x1="1240" y1="536" x2="1542" y2="536" stroke="#F97316" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1380.0" cy="536" r="8" fill="#F97316" stroke="#FFFFFF" stroke-width="4"/>
+</svg>
