@@ -178,16 +178,7 @@ Windows desktop dashboard for real-time PC hardware monitoring and resource visu
 
 ---
 
-## 🎯 Current focus
-
-```text
-▸ Designing modular and maintainable software architectures
-▸ Building offline-first OCR and computer vision workflows
-▸ Developing business and industrial management applications
-▸ Improving deployment, containerization and Linux infrastructure skills
-▸ Applying security principles through AppSec and DevSecOps
-```
-
+## 📊 GitHub activity
 ---
 
 ## 📊 GitHub activity
@@ -195,11 +186,6 @@ Windows desktop dashboard for real-time PC hardware monitoring and resource visu
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcossheredia&theme=tokyonight" alt="GitHub profile details" />
-
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcossheredia&theme=tokyonight" alt="Top languages by repository" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcossheredia&theme=tokyonight" alt="Top languages by commits" />
 
 <br />
 
