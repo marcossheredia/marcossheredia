@@ -194,6 +194,15 @@ Windows desktop dashboard for real-time PC hardware monitoring and resource visu
 
 <div align="center">
 
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcossheredia&theme=tokyonight" alt="GitHub profile details" />
+
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcossheredia&theme=tokyonight" alt="Top languages by repository" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcossheredia&theme=tokyonight" alt="Top languages by commits" />
+
+<br />
+
 <img width="70%" src="https://streak-stats.demolab.com?user=marcossheredia&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak" />
 
 </div>
