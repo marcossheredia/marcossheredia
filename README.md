@@ -84,64 +84,87 @@ Authenticated applications with REST APIs, relational databases, responsive inte
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" title="Java" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" title="Python" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" alt="C#" title="C#" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5" title="HTML5" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="48" alt="C#" title="C#" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3" />
 </p>
 
 ### Frameworks and application development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot" title="Spring Boot" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=svelte&theme=dark" width="48" height="48" alt="Svelte and SvelteKit" title="Svelte and SvelteKit" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="Vue.js" title="Vue.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48" alt="Angular" title="Angular" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" title="React" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" height="48" alt=".NET" title=".NET" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite" title="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="48" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="48" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="48" alt="Svelte" title="Svelte and SvelteKit" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="48" alt="Vue.js" title="Vue.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="48" alt="Angular" title="Angular" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="48" alt="React" title="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="48" alt=".NET" title=".NET" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="48" alt="Vite" title="Vite" />
 </p>
 
-### Data, messaging and infrastructure
+### Data and messaging
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" title="MySQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" title="Supabase" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" title="Docker and Docker Compose" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" title="Linux" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="48" height="48" alt="Windows" title="Windows" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" title="Git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" title="GitHub" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" height="48" alt="Apache Maven" title="Apache Maven" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="Microsoft SQL Server" title="Microsoft SQL Server" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="48" alt="Supabase" title="Supabase" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="48" alt="RabbitMQ" title="RabbitMQ" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/minio/C72E49" height="48" alt="MinIO" title="MinIO S3-compatible storage" />
+</p>
+
+### Infrastructure and tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48" alt="Docker" title="Docker and Docker Compose" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="48" alt="Windows" title="Windows" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
+    <img src="https://cdn.simpleicons.org/github/181717" height="48" alt="GitHub" title="GitHub" />
+  </picture>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="48" alt="Apache Maven" title="Apache Maven" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="48" alt="Postman" title="Postman" />
+</p>
+
+### Computer vision and Windows desktop
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/paddlepaddle/0062AD" height="48" alt="PaddleOCR" title="PaddleOCR and PaddlePaddle" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="48" alt=".NET desktop" title=".NET desktop development" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="48" alt="WinForms" title="Windows Forms" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/windows/0078D4" height="48" alt="WPF" title="Windows Presentation Foundation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/MinIO-S3_Storage-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO" title="MinIO S3-compatible storage" />
-  <img src="https://img.shields.io/badge/PaddleOCR-0062AD?style=flat-square&logo=paddlepaddle&logoColor=white" alt="PaddleOCR" title="PaddleOCR" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" title="OpenCV" />
-  <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WinForms" title="Windows Forms" />
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" title="Windows Presentation Foundation" />
+  <sub>PaddleOCR · OpenCV · .NET · WinForms · WPF</sub>
 </p>
 
 ### Engineering and integration
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-1F6FEB?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" title="REST APIs and OpenAPI" />
-  <img src="https://img.shields.io/badge/WebSocket-STOMP-6E56CF?style=flat-square" alt="WebSocket STOMP" title="WebSocket and STOMP" />
-  <img src="https://img.shields.io/badge/AMQP-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="AMQP" title="AMQP messaging with RabbitMQ" />
-  <img src="https://img.shields.io/badge/TCP-STX%2FETX-0F766E?style=flat-square" alt="TCP STX ETX" title="Industrial TCP protocols with STX/ETX framing" />
-  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth2" title="OAuth2" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" title="JSON Web Tokens" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" title="Pytest" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" title="Docker Compose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="46" alt="OpenAPI" title="REST APIs and OpenAPI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="46" alt="AMQP" title="AMQP with RabbitMQ" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/auth0/EB5424" height="46" alt="OAuth2" title="OAuth2" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" height="46" alt="JWT" title="JSON Web Tokens" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="46" alt="Pytest" title="Pytest" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="46" alt="Docker Compose" title="Docker Compose" />
+</p>
+
+<p align="center">
+  <code>REST APIs</code>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>WebSocket / STOMP</code>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>AMQP</code>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>TCP STX/ETX</code>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>OAuth2</code>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>JWT</code>
 </p>
 
 ---
