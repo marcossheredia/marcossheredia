@@ -2,23 +2,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=941C2F&center=true&vCenter=true&repeat=true&width=940&height=60&lines=Building+software+for+logistics+and+industrial+environments;TCP+integrations+%C2%B7+RabbitMQ+%C2%B7+WebSockets+%C2%B7+SQL+Server;Offline+OCR+%C2%B7+Desktop+tools+%C2%B7+Full-stack+platforms)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=941C2F&center=true&vCenter=true&repeat=true&width=940&height=60&lines=Building+software+for+logistics+and+industrial+environments;TCP+integrations+%C2%B7+RabbitMQ+%C2%B7+WebSockets+%C2%B7+SQL+Server;Offline+OCR+%C2%B7+Desktop+tools+%C2%B7+Full-stack+platforms)
 
-<a href="https://www.linkedin.com/in/marcos-heredia-san-rom%C3%A1n-8073563a5/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-941C2F?style=for-the-badge&logo=linkedin&logoColor=EBEBEB" alt="LinkedIn" />
-</a>
-<a href="mailto:marcossheredia06@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-03191E?style=for-the-badge&logo=gmail&logoColor=EBEBEB" alt="Email" />
-</a>
-<a href="https://portfolio-rho-beige-54.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-941C2F?style=for-the-badge&logo=vercel&logoColor=EBEBEB" alt="Portfolio" />
-</a>
 
 </div>
 
 ---
 
-## About me
+<h2><a href="https://www.youtube.com/watch?v=N1GmQdWzSRU">About me</a></h2>
 
 <div align="center">
 
@@ -116,12 +110,10 @@ I build **reliable internal tools, machine integrations and offline-first applic
     <img src="./assets/project-cards/csv-sql-importer.png" width="49%" alt="CSV to SQL Server Importer project card" />
   </picture>
   <br />
-  <a href="https://github.com/marcossheredia/Spotify-Tracker">
     <picture>
       <source srcset="./assets/project-cards/spotify-tracker.svg" type="image/svg+xml" />
       <img src="./assets/project-cards/spotify-tracker.png" width="49%" alt="Spotify Tracker project card" />
     </picture>
-  </a>
   <picture>
     <source srcset="./assets/project-cards/personal-cloud.svg" type="image/svg+xml" />
     <img src="./assets/project-cards/personal-cloud.png" width="49%" alt="Personal Cloud project card" />
@@ -149,7 +141,7 @@ I build **reliable internal tools, machine integrations and offline-first applic
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcossheredia&bg_color=03191E&color=EBEBEB&line=941C2F&point=9882AC&area_color=738290&title_color=EBEBEB&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/marcossheredia)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcossheredia&bg_color=03191E&color=EBEBEB&line=941C2F&point=9882AC&area_color=738290&title_color=EBEBEB&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
 </div>
 
@@ -159,12 +151,8 @@ I build **reliable internal tools, machine integrations and offline-first applic
 
 **Have a real operational problem that software could simplify? Let's talk.**
 
-<a href="https://www.linkedin.com/in/marcos-heredia-san-rom%C3%A1n-8073563a5/">
   <img src="https://img.shields.io/badge/LinkedIn-Marcos_Heredia-941C2F?style=for-the-badge&logo=linkedin&logoColor=EBEBEB" alt="LinkedIn" />
-</a>
-<a href="mailto:marcossheredia06@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-03191E?style=for-the-badge&logo=gmail&logoColor=EBEBEB" alt="Email" />
-</a>
 
 </div>
 
