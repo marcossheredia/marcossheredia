@@ -1,26 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="210" viewBox="0 0 720 210" role="img" aria-labelledby="title desc">
-  <title id="title">Mi Tiempo</title>
-  <desc id="desc">Personal calendar PWA for recurring schedules, daily events, exceptions and cross-device persistence.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1c2030"/>
-      <stop offset="100%" stop-color="#232838"/>
-    </linearGradient>
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
-      <feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#000000" flood-opacity="0.20"/>
-    </filter>
-  </defs>
-  <rect x="7" y="7" width="706" height="196" rx="14" fill="url(#bg)" stroke="#343b50" stroke-width="2" filter="url(#shadow)"/>
-  <rect x="7" y="7" width="6" height="196" rx="3" fill="#ff5c8a"/>
-
-  <text x="38" y="50" fill="#ff5c8a" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">Mi Tiempo</text>
-  <text x="38" y="84" fill="#d7dbea" font-family="Segoe UI, Arial, sans-serif" font-size="16">Personal calendar PWA for recurring schedules,</text>
-  <text x="38" y="108" fill="#d7dbea" font-family="Segoe UI, Arial, sans-serif" font-size="16">daily events, exceptions and cross-device persistence.</text>
-
-  <circle cx="46" cy="145" r="7" fill="#3178c6"/>
-  <text x="62" y="151" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">TypeScript</text>
-  <text x="38" y="180" fill="#aeb6cc" font-family="Segoe UI, Arial, sans-serif" font-size="13.5">React · TypeScript · Vite · Supabase · PWA</text>
-
-  <rect x="515" y="128" width="167" height="31" rx="15.5" fill="#171b28" stroke="#4a5269"/>
-  <text x="598.5" y="149" text-anchor="middle" fill="#f3c95f" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.6">PRIVATE · PERSONAL</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420" role="img" aria-labelledby="title desc">
+<title id="title">Mi Tiempo</title>
+<desc id="desc">Personal calendar PWA for recurring schedules, daily events and cross-device persistence.</desc>
+<rect x="10" y="10" width="540" height="400" rx="18" fill="#1B2235" stroke="#465170" stroke-width="2"/>
+<text x="34" y="62" fill="#FF5C8A" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">Mi Tiempo</text>
+<text x="34" y="100" fill="#EAF0F8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Personal calendar PWA for recurring</text><text x="34" y="129" fill="#EAF0F8" font-family="Segoe UI, Arial, sans-serif" font-size="18">schedules, daily events and cross-device</text><text x="34" y="158" fill="#EAF0F8" font-family="Segoe UI, Arial, sans-serif" font-size="18">persistence.</text>
+<circle cx="40" cy="316" r="8" fill="#3178C6"/>
+<text x="58" y="322" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">TypeScript</text>
+<text x="34" y="374" fill="#A7B3C9" font-family="Segoe UI, Arial, sans-serif" font-size="16">React · TypeScript · Vite · Supabase · PWA</text>
 </svg>
