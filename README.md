@@ -171,141 +171,33 @@ Authenticated applications with REST APIs, relational databases, responsive inte
 
 ## Selected engineering work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="./assets/project-cards/industrial-tcp-bridge.svg" width="49%" alt="Industrial TCP Bridge project card" />
+  <img src="./assets/project-cards/sorting-system-monitor.svg" width="49%" alt="Real-time Sorting System Monitor project card" />
+  <img src="./assets/project-cards/offline-ocr-service.svg" width="49%" alt="Offline OCR Local Service project card" />
+  <img src="./assets/project-cards/csv-sql-importer.svg" width="49%" alt="CSV to SQL Server Importer project card" />
+  <a href="https://github.com/marcossheredia/Spotify-Tracker">
+  <img src="./assets/project-cards/spotify-tracker.svg" width="49%" alt="Spotify Tracker project card" />
+  </a>
+  <img src="./assets/project-cards/personal-cloud.svg" width="49%" alt="Personal Cloud project card" />
+</p>
 
-### Industrial TCP Bridge
-
-Industrial web system that connects to operational equipment through a TCP client, decodes framed messages and exposes machine state, diagnostic information and controlled commands through a web interface.
-
-It also integrates role-based authentication and direct SQL Server queries against operational data.
-
-**Stack:** `Java 17` `Spring Boot` `Svelte` `TCP` `SQL Server` `Maven`
-
-**Status:** Private professional project.
-
-</td>
-<td width="50%" valign="top">
-
-### Real-time Sorting System Monitor
-
-Event-driven platform for visualizing package-sorting machinery through an interactive SVG interface.
-
-A Python simulator publishes machine events to RabbitMQ, a Spring Boot backend processes them and forwards live updates through WebSocket/STOMP to a Svelte frontend. The platform also queries historical and production data from SQL Server.
-
-**Stack:** `Spring Boot` `Svelte 5` `RabbitMQ` `WebSocket` `Python` `SQL Server` `Docker`
-
-**Status:** Private industrial project.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Offline OCR Local Service
-
-Self-contained OCR API designed for logistics labels and restricted environments without internet access.
-
-It supports image batches, PDF and multi-frame TIFF processing, configurable preprocessing, PaddleOCR CPU inference, barcode recognition, deterministic semantic profiles, local model bundles and an integrated test UI.
-
-**Stack:** `Python` `FastAPI` `PaddleOCR` `OpenCV` `ZXing` `Pydantic` `Pytest` `Docker`
-
-**Status:** Private engineering project.
-
-</td>
-<td width="50%" valign="top">
-
-### CSV to SQL Server Importer
-
-Windows desktop application for validating and importing operational CSV data into SQL Server.
-
-The import process runs inside a database transaction, replaces existing rows safely, preserves identities and null values when required, uses `SqlBulkCopy` for efficient insertion and rolls back automatically on failure.
-
-**Stack:** `C#` `.NET 8` `WinForms` `Microsoft.Data.SqlClient` `SQL Server`
-
-**Status:** Private internal tool.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Spotify Tracker](https://github.com/marcossheredia/Spotify-Tracker)
-
-Full-stack platform built around Spotify authentication and listening data.
-
-The extended version includes OAuth2 login, JWT-protected APIs, PostgreSQL persistence, a Vue dashboard, Docker Compose and a playlist assistant capable of turning natural-language requests into real Spotify playlists.
-
-**Stack:** `Java 17` `Spring Boot 3` `Vue 3` `PostgreSQL` `OAuth2` `JWT` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### Personal Cloud
-
-Self-hosted file-storage platform built as a lightweight alternative to general-purpose cloud drives.
-
-It combines a Spring Boot API, JWT authentication, PostgreSQL metadata storage, MinIO object storage and a SvelteKit frontend in a Docker Compose development environment.
-
-**Stack:** `Spring Boot` `SvelteKit` `TypeScript` `PostgreSQL` `MinIO` `JWT` `Docker`
-
-**Status:** Private personal project.
-
-</td>
-</tr>
-</table>
+> Public cards open their GitHub repository. Private cards summarize the project without exposing internal implementation details.
 
 ---
 
 ## Public and personal projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Baños Tres60](https://github.com/marcossheredia/BanosTres60)
-
-Production website for a bathroom-renovation business, focused on presenting services, requesting quotations and providing a responsive experience across desktop and mobile devices.
-
-**Stack:** `Vue 3` `Vite` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### [FakeStoreApp](https://github.com/marcossheredia/FakeStoreApp)
-
-Angular application consuming a public store API with JWT authentication, protected routes, role-based authorization, reactive forms and complete product CRUD workflows.
-
-**Stack:** `Angular` `TypeScript` `JWT` `REST API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Mi Tiempo
-
-Personal calendar PWA for planning recurring schedules, daily events and exceptions, with authenticated cross-device persistence.
-
-**Stack:** `React` `TypeScript` `Vite` `Supabase` `PWA`
-
-**Status:** Private personal project.
-
-</td>
-<td width="50%" valign="top">
-
-### Personal Wishlist
-
-Minimal PWA designed to organize wanted purchases, categories and completed items across devices.
-
-**Stack:** `React` `TypeScript` `Vite` `Supabase` `PWA`
-
-**Status:** Private personal project.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/marcossheredia/BanosTres60">
+  <img src="./assets/project-cards/banos-tres60.svg" width="49%" alt="Baños Tres60 project card" />
+  </a>
+  <a href="https://github.com/marcossheredia/FakeStoreApp">
+  <img src="./assets/project-cards/fakestoreapp.svg" width="49%" alt="FakeStoreApp project card" />
+  </a>
+  <img src="./assets/project-cards/mi-tiempo.svg" width="49%" alt="Mi Tiempo project card" />
+  <img src="./assets/project-cards/personal-wishlist.svg" width="49%" alt="Personal Wishlist project card" />
+</p>
 
 > Private projects are intentionally described without exposing internal addresses, credentials, customer data or company-specific implementation details.
 
