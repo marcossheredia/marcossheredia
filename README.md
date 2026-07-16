@@ -1,28 +1,16 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║  PERSONALIZA ESTOS DATOS ANTES DE PUBLICAR                          ║
-║                                                                      ║
-║  1. marcossheredia  → tu usuario real de GitHub                  ║
-║  2. [TU_LINKEDIN](https://www.linkedin.com/in/marcos-heredia-san-rom%C3%A1n-8073563a5/)        → URL completa de LinkedIn                   ║
-║  3. marcossheredia06@gmail.com           → correo profesional                         ║
-║  4. portfolio-rho-beige-54.vercel.app       → URL de tu portfolio                        ║
-║  5. REPO_*             → enlaces de tus proyectos públicos          ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:1F6FEB,100:7C3AED&text=Marcos&fontColor=FFFFFF&fontSize=72&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Industrial%20Software%20%C2%B7%20Automation&descAlignY=59&descSize=20&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=3000\&pause=900\&color=70A5FD\&center=true\&vCenter=true\&repeat=true\&width=850\&height=60\&lines=Building+software+for+real-world+problems;Web+applications+%C2%B7+Industrial+systems+%C2%B7+Automation;Offline+OCR+%C2%B7+Computer+Vision+%C2%B7+Desktop+tools;Java+%C2%B7+Spring+Boot+%C2%B7+Vue+%C2%B7+TypeScript+%C2%B7+.NET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Building+software+for+real-world+problems;Web+applications+%C2%B7+Industrial+systems+%C2%B7+Automation;Offline+OCR+%C2%B7+Computer+Vision+%C2%B7+Desktop+tools;Java+%C2%B7+Spring+Boot+%C2%B7+Vue+%C2%B7+TypeScript+%C2%B7+.NET)](https://git.io/typing-svg)
 
-<a href="TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/marcos-heredia-san-rom%C3%A1n-8073563a5/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:TU_EMAIL">
+<a href="mailto:marcossheredia06@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="TU_PORTFOLIO">
+<a href="https://portfolio-rho-beige-54.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -36,13 +24,13 @@ I am a **Full Stack Developer** focused on building practical software for **bus
 
 My work sits at the intersection of web development, process automation and local software: from management platforms and internal tools to industrial monitoring systems, offline OCR pipelines and Windows desktop applications.
 
-* 🎓 Higher Technician in Web Application Development — **DAW**
-* 💼 Currently working professionally as a **Software Developer**
-* 🏭 Building software for office, logistics and industrial workflows
-* 🧠 Interested in **automation, OCR, computer vision and system integration**
-* 🛡️ Expanding my knowledge toward **AppSec and DevSecOps**
-* ⚙️ I value modular architecture, maintainability, reliability and clear UX
-* 🇪🇸 Based in Spain
+- 🎓 Higher Technician in Web Application Development — **DAW**
+- 💼 Currently working professionally as a **Software Developer**
+- 🏭 Building software for office, logistics and industrial workflows
+- 🧠 Interested in **automation, OCR, computer vision and system integration**
+- 🛡️ Expanding my knowledge toward **AppSec and DevSecOps**
+- ⚙️ I value modular architecture, maintainability, reliability and clear UX
+- 🇪🇸 Based in Spain
 
 > I like software that removes friction, reduces repetitive work and solves a concrete problem.
 
@@ -93,7 +81,7 @@ Windows utilities and internal applications built to simplify workflows, central
 
 <div align="center">
 
-[![Core Skills](https://skillicons.dev/icons?i=java,spring,ts,js,vue,react,cs,dotnet,python,html,css\&theme=dark\&perline=11)](https://skillicons.dev)
+[![Core Skills](https://skillicons.dev/icons?i=java,spring,ts,js,vue,react,cs,dotnet,python,html,css&theme=dark&perline=11)](https://skillicons.dev)
 
 </div>
 
@@ -101,7 +89,7 @@ Windows utilities and internal applications built to simplify workflows, central
 
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,windows,vscode,visualstudio,postman,maven\&theme=dark\&perline=12)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,windows,vscode,visualstudio,postman,maven&theme=dark&perline=12)](https://skillicons.dev)
 
 </div>
 
@@ -122,7 +110,7 @@ Windows utilities and internal applications built to simplify workflows, central
 <tr>
 <td width="50%" valign="top">
 
-### [Industrial Monitoring Platform](REPO_INDUSTRIAL)
+### [Industrial Monitoring Platform](#)
 
 Software for connecting, monitoring and visualizing information from industrial equipment and operational systems.
 
@@ -133,7 +121,7 @@ Software for connecting, monitoring and visualizing information from industrial 
 </td>
 <td width="50%" valign="top">
 
-### [Offline OCR Pipeline](REPO_OCR)
+### [Offline OCR Pipeline](#)
 
 Modular and self-contained system for detecting labels, extracting text, reading codes and validating results without internet access.
 
@@ -146,7 +134,7 @@ Modular and self-contained system for detecting labels, extracting text, reading
 <tr>
 <td width="50%" valign="top">
 
-### [Management Platform](REPO_GESTION)
+### [Management Platform](#)
 
 Full stack platform for managing users, reservations, services, schedules and operational workflows.
 
@@ -157,7 +145,7 @@ Full stack platform for managing users, reservations, services, schedules and op
 </td>
 <td width="50%" valign="top">
 
-### [Insane Metriks](REPO_METRIKS)
+### [Insane Metriks](#)
 
 Windows desktop dashboard for real-time PC hardware monitoring and resource visualization.
 
@@ -189,18 +177,18 @@ Windows desktop dashboard for real-time PC hardware monitoring and resource visu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcossheredia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossheredia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
 <br />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=marcossheredia&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak" />
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB\&theme=tokyo-night\&hide_border=true\&area=true\&custom_title=Contribution%20Activity)](https://github.com/TU_USUARIO_GITHUB)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcossheredia&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/marcossheredia)
 
 </div>
 
@@ -214,11 +202,11 @@ I am interested in software engineering, automation, industrial systems, full st
 
 **Have an interesting technical problem or project? Let's talk.**
 
-<a href="TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/marcos-heredia-san-rom%C3%A1n-8073563a5/">
   <img src="https://img.shields.io/badge/LinkedIn-Marcos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:TU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-TU_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:marcossheredia06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-marcossheredia06@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
