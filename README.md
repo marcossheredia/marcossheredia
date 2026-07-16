@@ -79,27 +79,44 @@ Windows utilities and internal applications built to simplify workflows, central
 
 ### Core development
 
-<div align="center">
-
-[![Core Skills](https://skillicons.dev/icons?i=java,spring,ts,js,vue,react,cs,dotnet,python,html,css&theme=dark&perline=11)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" title="Java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot" title="Spring Boot" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="Vue.js" title="Vue.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" title="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" alt="C#" title="C#" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" height="48" alt=".NET" title=".NET" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5" title="HTML5" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3" title="CSS3" />
+</p>
 
 ### Data, infrastructure and tooling
 
-<div align="center">
-
-[![Tools](https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,windows,vscode,visualstudio,postman,maven&theme=dark&perline=12)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite" title="SQLite" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" title="Docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" title="GitHub" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" title="Linux" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="48" height="48" alt="Windows" title="Windows" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" height="48" alt="Visual Studio" title="Visual Studio" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" title="Postman" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" height="48" alt="Apache Maven" title="Apache Maven" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PaddleOCR-0062AD?style=flat-square&logo=paddlepaddle&logoColor=white" alt="PaddleOCR" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />
-  <img src="https://img.shields.io/badge/REST_APIs-1F6FEB?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" title="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/PaddleOCR-0062AD?style=flat-square&logo=paddlepaddle&logoColor=white" alt="PaddleOCR" title="PaddleOCR" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" title="OpenCV" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" title="Windows Presentation Foundation (WPF)" />
+  <img src="https://img.shields.io/badge/REST_APIs-1F6FEB?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" title="REST APIs" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" title="Docker Compose" />
 </p>
 
 ---
