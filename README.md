@@ -2,10 +2,10 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  PERSONALIZA ESTOS DATOS ANTES DE PUBLICAR                          ║
 ║                                                                      ║
-║  1. TU_USUARIO_GITHUB  → tu usuario real de GitHub                  ║
-║  2. TU_LINKEDIN        → URL completa de LinkedIn                   ║
-║  3. TU_EMAIL           → correo profesional                         ║
-║  4. TU_PORTFOLIO       → URL de tu portfolio                        ║
+║  1. marcossheredia  → tu usuario real de GitHub                  ║
+║  2. [TU_LINKEDIN](https://www.linkedin.com/in/marcos-heredia-san-rom%C3%A1n-8073563a5/)        → URL completa de LinkedIn                   ║
+║  3. marcossheredia06@gmail.com           → correo profesional                         ║
+║  4. portfolio-rho-beige-54.vercel.app       → URL de tu portfolio                        ║
 ║  5. REPO_*             → enlaces de tus proyectos públicos          ║
 ╚══════════════════════════════════════════════════════════════════════╝
 -->
