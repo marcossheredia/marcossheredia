@@ -132,36 +132,6 @@ I build **reliable internal tools, machine integrations and offline-first applic
 
 ---
 
-## Public and personal projects
-
-<p align="center">
-  <a href="https://github.com/marcossheredia/BanosTres60">
-    <picture>
-      <source srcset="./assets/project-cards/banos-tres60.svg" type="image/svg+xml" />
-      <img src="./assets/project-cards/banos-tres60.png" width="49%" alt="Baños Tres60 project card" />
-    </picture>
-  </a>
-  <a href="https://github.com/marcossheredia/FakeStoreApp">
-    <picture>
-      <source srcset="./assets/project-cards/fakestoreapp.svg" type="image/svg+xml" />
-      <img src="./assets/project-cards/fakestoreapp.png" width="49%" alt="FakeStoreApp project card" />
-    </picture>
-  </a>
-  <br />
-  <picture>
-    <source srcset="./assets/project-cards/mi-tiempo.svg" type="image/svg+xml" />
-    <img src="./assets/project-cards/mi-tiempo.png" width="49%" alt="Mi Tiempo project card" />
-  </picture>
-  <picture>
-    <source srcset="./assets/project-cards/personal-wishlist.svg" type="image/svg+xml" />
-    <img src="./assets/project-cards/personal-wishlist.png" width="49%" alt="Personal Wishlist project card" />
-  </picture>
-</p>
-
-> Private projects are intentionally described without exposing internal addresses, credentials, customer data or company-specific implementation details.
-
----
-
 ## GitHub activity
 
 <div align="center">
