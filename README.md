@@ -176,11 +176,6 @@ Windows desktop dashboard for real-time PC hardware monitoring and resource visu
 
 > Some professional and industrial projects cannot be published in full, but I document their architecture, technical decisions and engineering challenges whenever possible.
 
----
-
-## 📊 GitHub activity
----
-
 ## 📊 GitHub activity
 
 <div align="center">
