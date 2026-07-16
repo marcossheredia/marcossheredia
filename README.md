@@ -84,78 +84,45 @@ Authenticated applications with REST APIs, relational databases, responsive inte
 ### Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.png" height="48" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.png" height="48" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.png" height="48" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.png" height="48" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.png" height="48" alt="C#" title="C#" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.png" height="48" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.png" height="48" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cs,html,css&theme=light" alt="Languages" />
 </p>
 
 ### Frameworks and application development
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.png" height="48" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.png" height="48" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.png" height="48" alt="Svelte" title="Svelte and SvelteKit" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.png" height="48" alt="Vue.js" title="Vue.js" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.png" height="48" alt="Angular" title="Angular" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.png" height="48" alt="React" title="React" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.png" height="48" alt=".NET" title=".NET" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.png" height="48" alt="Vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,svelte,vue,angular,react,dotnet,vite&theme=light" alt="Frameworks and application development" />
 </p>
 
 ### Data and messaging
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.png" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.png" height="48" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.png" height="48" alt="Microsoft SQL Server" title="Microsoft SQL Server" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.png" height="48" alt="Supabase" title="Supabase" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.png" height="48" alt="RabbitMQ" title="RabbitMQ" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/minio/C72E49" height="48" alt="MinIO" title="MinIO S3-compatible storage" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,rabbitmq,docker&theme=light" alt="Data and messaging" />
+</p>
+
+<p align="center">
+  <code>Microsoft SQL Server</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>MinIO</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>RabbitMQ</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>S3-compatible storage</code>
 </p>
 
 ### Infrastructure and tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.png" height="48" alt="Docker" title="Docker and Docker Compose" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.png" height="48" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.png" height="48" alt="Windows" title="Windows" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.png" height="48" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
-    <img src="https://cdn.simpleicons.org/github/181717" height="48" alt="GitHub" title="GitHub" />
-  </picture>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.png" height="48" alt="Apache Maven" title="Apache Maven" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.png" height="48" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github,maven,postman&theme=light" alt="Infrastructure and tools" />
 </p>
 
 ### Computer vision and Windows desktop
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/paddlepaddle/0062AD" height="48" alt="PaddleOCR" title="PaddleOCR and PaddlePaddle" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.png" height="48" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.png" height="48" alt=".NET desktop" title=".NET desktop development" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.png" height="48" alt="WinForms" title="Windows Forms" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/windows/0078D4" height="48" alt="WPF" title="Windows Presentation Foundation" />
+  <img src="https://skillicons.dev/icons?i=opencv,dotnet,windows&theme=light" alt="Computer vision and Windows desktop" />
 </p>
 
 <p align="center">
-  <sub>PaddleOCR · OpenCV · .NET · WinForms · WPF</sub>
+  <code>PaddleOCR</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>OpenCV</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>.NET</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>WinForms</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>WPF</code>
 </p>
 
 ### Engineering and integration
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.png" height="46" alt="OpenAPI" title="REST APIs and OpenAPI" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.png" height="46" alt="AMQP" title="AMQP with RabbitMQ" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/auth0/EB5424" height="46" alt="OAuth2" title="OAuth2" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" height="46" alt="JWT" title="JSON Web Tokens" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.png" height="46" alt="Pytest" title="Pytest" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.png" height="46" alt="Docker Compose" title="Docker Compose" />
+  <img src="https://skillicons.dev/icons?i=swagger,pytest,docker&theme=light" alt="Engineering and integration" />
 </p>
 
 <p align="center">
@@ -172,14 +139,34 @@ Authenticated applications with REST APIs, relational databases, responsive inte
 ## Selected engineering work
 
 <p align="center">
-  <img src="./assets/project-cards/industrial-tcp-bridge.png" width="49%" alt="Industrial TCP Bridge project card" />
-  <img src="./assets/project-cards/sorting-system-monitor.png" width="49%" alt="Real-time Sorting System Monitor project card" />
-  <img src="./assets/project-cards/offline-ocr-service.png" width="49%" alt="Offline OCR Local Service project card" />
-  <img src="./assets/project-cards/csv-sql-importer.png" width="49%" alt="CSV to SQL Server Importer project card" />
+  <picture>
+    <source srcset="./assets/project-cards/industrial-tcp-bridge.svg" type="image/svg+xml" />
+    <img src="./assets/project-cards/industrial-tcp-bridge.png" width="49%" alt="Industrial TCP Bridge project card" />
+  </picture>
+  <picture>
+    <source srcset="./assets/project-cards/sorting-system-monitor.svg" type="image/svg+xml" />
+    <img src="./assets/project-cards/sorting-system-monitor.png" width="49%" alt="Real-time Sorting System Monitor project card" />
+  </picture>
+  <br />
+  <picture>
+    <source srcset="./assets/project-cards/offline-ocr-service.svg" type="image/svg+xml" />
+    <img src="./assets/project-cards/offline-ocr-service.png" width="49%" alt="Offline OCR Local Service project card" />
+  </picture>
+  <picture>
+    <source srcset="./assets/project-cards/csv-sql-importer.svg" type="image/svg+xml" />
+    <img src="./assets/project-cards/csv-sql-importer.png" width="49%" alt="CSV to SQL Server Importer project card" />
+  </picture>
+  <br />
   <a href="https://github.com/marcossheredia/Spotify-Tracker">
-  <img src="./assets/project-cards/spotify-tracker.png" width="49%" alt="Spotify Tracker project card" />
+    <picture>
+      <source srcset="./assets/project-cards/spotify-tracker.svg" type="image/svg+xml" />
+      <img src="./assets/project-cards/spotify-tracker.png" width="49%" alt="Spotify Tracker project card" />
+    </picture>
   </a>
-  <img src="./assets/project-cards/personal-cloud.png" width="49%" alt="Personal Cloud project card" />
+  <picture>
+    <source srcset="./assets/project-cards/personal-cloud.svg" type="image/svg+xml" />
+    <img src="./assets/project-cards/personal-cloud.png" width="49%" alt="Personal Cloud project card" />
+  </picture>
 </p>
 
 > Public cards open their GitHub repository. Private cards summarize the project without exposing internal implementation details.
@@ -190,13 +177,26 @@ Authenticated applications with REST APIs, relational databases, responsive inte
 
 <p align="center">
   <a href="https://github.com/marcossheredia/BanosTres60">
-  <img src="./assets/project-cards/banos-tres60.png" width="49%" alt="Baños Tres60 project card" />
+    <picture>
+      <source srcset="./assets/project-cards/banos-tres60.svg" type="image/svg+xml" />
+      <img src="./assets/project-cards/banos-tres60.png" width="49%" alt="Baños Tres60 project card" />
+    </picture>
   </a>
   <a href="https://github.com/marcossheredia/FakeStoreApp">
-  <img src="./assets/project-cards/fakestoreapp.png" width="49%" alt="FakeStoreApp project card" />
+    <picture>
+      <source srcset="./assets/project-cards/fakestoreapp.svg" type="image/svg+xml" />
+      <img src="./assets/project-cards/fakestoreapp.png" width="49%" alt="FakeStoreApp project card" />
+    </picture>
   </a>
-  <img src="./assets/project-cards/mi-tiempo.png" width="49%" alt="Mi Tiempo project card" />
-  <img src="./assets/project-cards/personal-wishlist.png" width="49%" alt="Personal Wishlist project card" />
+  <br />
+  <picture>
+    <source srcset="./assets/project-cards/mi-tiempo.svg" type="image/svg+xml" />
+    <img src="./assets/project-cards/mi-tiempo.png" width="49%" alt="Mi Tiempo project card" />
+  </picture>
+  <picture>
+    <source srcset="./assets/project-cards/personal-wishlist.svg" type="image/svg+xml" />
+    <img src="./assets/project-cards/personal-wishlist.png" width="49%" alt="Personal Wishlist project card" />
+  </picture>
 </p>
 
 > Private projects are intentionally described without exposing internal addresses, credentials, customer data or company-specific implementation details.
