@@ -1,17 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:1F6FEB,100:7C3AED&text=Marcos%20Heredia&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Industrial%20Systems%20%C2%B7%20Automation&descAlignY=59&descSize=19&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:03191E,55:738290,100:9882AC&text=Marcos%20Heredia&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Industrial%20Systems%20%C2%B7%20Automation&descAlignY=59&descSize=19&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&repeat=true&width=940&height=60&lines=Building+software+for+logistics+and+industrial+environments;TCP+integrations+%C2%B7+RabbitMQ+%C2%B7+WebSockets+%C2%B7+SQL+Server;Offline+OCR+%C2%B7+Desktop+tools+%C2%B7+Full-stack+platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=941C2F&center=true&vCenter=true&repeat=true&width=940&height=60&lines=Building+software+for+logistics+and+industrial+environments;TCP+integrations+%C2%B7+RabbitMQ+%C2%B7+WebSockets+%C2%B7+SQL+Server;Offline+OCR+%C2%B7+Desktop+tools+%C2%B7+Full-stack+platforms)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/marcos-heredia-san-rom%C3%A1n-8073563a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-941C2F?style=for-the-badge&logo=linkedin&logoColor=EBEBEB" alt="LinkedIn" />
 </a>
 <a href="mailto:marcossheredia06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-03191E?style=for-the-badge&logo=gmail&logoColor=EBEBEB" alt="Email" />
 </a>
 <a href="https://portfolio-rho-beige-54.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-941C2F?style=for-the-badge&logo=vercel&logoColor=EBEBEB" alt="Portfolio" />
 </a>
 
 </div>
@@ -28,10 +28,10 @@ I build **reliable internal tools, machine integrations and offline-first applic
 
 <br />
 
-<img src="https://img.shields.io/badge/Logistics-Software-1F6FEB?style=for-the-badge" alt="Logistics software" />
-<img src="https://img.shields.io/badge/Industrial-Integration-7C3AED?style=for-the-badge" alt="Industrial integration" />
-<img src="https://img.shields.io/badge/Backend-APIs-0F766E?style=for-the-badge" alt="Backend and APIs" />
-<img src="https://img.shields.io/badge/Offline-OCR-C72E49?style=for-the-badge" alt="Offline OCR" />
+<img src="https://img.shields.io/badge/Logistics-Software-941C2F?style=for-the-badge" alt="Logistics software" />
+<img src="https://img.shields.io/badge/Industrial-Integration-03191E?style=for-the-badge" alt="Industrial integration" />
+<img src="https://img.shields.io/badge/Backend-APIs-941C2F?style=for-the-badge" alt="Backend and APIs" />
+<img src="https://img.shields.io/badge/Offline-OCR-03191E?style=for-the-badge" alt="Offline OCR" />
 
 <br /><br />
 
@@ -166,17 +166,17 @@ I build **reliable internal tools, machine integrations and offline-first applic
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcossheredia&theme=tokyonight" alt="GitHub profile details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcossheredia&theme=github_dark" alt="GitHub profile details" />
 
 <br />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=marcossheredia&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=marcossheredia&theme=dark&background=03191E&border=738290&stroke=738290&ring=941C2F&fire=941C2F&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=738290&dates=738290&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak" />
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcossheredia&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/marcossheredia)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcossheredia&bg_color=03191E&color=EBEBEB&line=941C2F&point=9882AC&area_color=738290&title_color=EBEBEB&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/marcossheredia)
 
 </div>
 
@@ -187,12 +187,12 @@ I build **reliable internal tools, machine integrations and offline-first applic
 **Have a real operational problem that software could simplify? Let's talk.**
 
 <a href="https://www.linkedin.com/in/marcos-heredia-san-rom%C3%A1n-8073563a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Marcos_Heredia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Marcos_Heredia-941C2F?style=for-the-badge&logo=linkedin&logoColor=EBEBEB" alt="LinkedIn" />
 </a>
 <a href="mailto:marcossheredia06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-03191E?style=for-the-badge&logo=gmail&logoColor=EBEBEB" alt="Email" />
 </a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1F6FEB,100:7C3AED" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:03191E,55:738290,100:9882AC" />
