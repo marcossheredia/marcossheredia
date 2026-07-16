@@ -166,7 +166,10 @@ I build **reliable internal tools, machine integrations and offline-first applic
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcossheredia&theme=github_dark" alt="GitHub profile details" />
+<picture>
+  <source srcset="./assets/github-profile/profile-details.svg" type="image/svg+xml" />
+  <img width="100%" src="./assets/github-profile/profile-details.png" alt="GitHub profile details" />
+</picture>
 
 <br />
 
