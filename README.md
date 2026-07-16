@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&repeat=true&width=940&height=60&lines=Building+software+for+logistics+and+industrial+environments;TCP+integrations+%C2%B7+RabbitMQ+%C2%B7+WebSockets+%C2%B7+SQL+Server;Offline+OCR+%C2%B7+Desktop+tools+%C2%B7+Full-stack+platforms;Java+%C2%B7+Spring+Boot+%C2%B7+Svelte+%C2%B7+Python+%C2%B7+C%23+%C2%B7+TypeScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&repeat=true&width=940&height=60&lines=Building+software+for+logistics+and+industrial+environments;TCP+integrations+%C2%B7+RabbitMQ+%C2%B7+WebSockets+%C2%B7+SQL+Server;Offline+OCR+%C2%B7+Desktop+tools+%C2%B7+Full-stack+platforms)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/marcos-heredia-san-rom%C3%A1n-8073563a5/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -35,15 +35,13 @@ I build **reliable internal tools, machine integrations and offline-first applic
 
 <br /><br />
 
-`Java` · `Spring Boot` · `Svelte` · `Python` · `C#` · `SQL Server` · `Docker`
-
-<br />
-
-**Higher Technician in Web Application Development (DAW)** · Based in Spain
+**Higher Technician in Web Application Development (DAW)**
 
 </div>
 
 > I build software to remove friction from real processes, not just to demonstrate technology.
+
+---
 
 ## What I build
 
@@ -104,9 +102,6 @@ Authenticated applications with REST APIs, relational databases, responsive inte
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,rabbitmq,docker&theme=light" alt="Data and messaging" />
 </p>
 
-<p align="center">
-  <code>Microsoft SQL Server</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>MinIO</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>RabbitMQ</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>S3-compatible storage</code>
-</p>
 
 ### Infrastructure and tools
 
@@ -120,24 +115,6 @@ Authenticated applications with REST APIs, relational databases, responsive inte
   <img src="https://skillicons.dev/icons?i=opencv,dotnet,windows&theme=light" alt="Computer vision and Windows desktop" />
 </p>
 
-<p align="center">
-  <code>PaddleOCR</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>OpenCV</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>.NET</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>WinForms</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>WPF</code>
-</p>
-
-### Engineering and integration
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swagger,pytest,docker&theme=light" alt="Engineering and integration" />
-</p>
-
-<p align="center">
-  <code>REST APIs</code>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>WebSocket / STOMP</code>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>AMQP</code>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>TCP STX/ETX</code>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>OAuth2</code>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>JWT</code>
-</p>
 
 ---
 
