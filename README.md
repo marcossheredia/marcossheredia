@@ -18,38 +18,38 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 I am a **Full Stack Developer** focused on building practical software for **business and industrial environments**.
 
 My work sits at the intersection of web development, process automation and local software: from management platforms and internal tools to industrial monitoring systems, offline OCR pipelines and Windows desktop applications.
 
-- 🎓 Higher Technician in Web Application Development — **DAW**
-- 💼 Currently working professionally as a **Software Developer**
-- 🏭 Building software for office, logistics and industrial workflows
-- 🧠 Interested in **automation, OCR, computer vision and system integration**
-- 🛡️ Expanding my knowledge toward **AppSec and DevSecOps**
-- ⚙️ I value modular architecture, maintainability, reliability and clear UX
+- Higher Technician in Web Application Development — **DAW**
+- Currently working professionally as a **Software Developer**
+- Building software for office, logistics and industrial workflows
+- Interested in **automation, OCR, computer vision and system integration**
+- Expanding my knowledge toward **AppSec and DevSecOps**
+- I value modular architecture, maintainability, reliability and clear UX
 - 🇪🇸 Based in Spain
 
 > I like software that removes friction, reduces repetitive work and solves a concrete problem.
 
 ---
 
-## 🚀 What I build
+## What I build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏭 Industrial software
+### Industrial software
 
 Monitoring, equipment communication, event visualization, data processing and internal tools designed for real operational environments.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Full stack platforms
+### Full stack platforms
 
 Management applications, dashboards, REST APIs, authentication, databases and responsive web interfaces.
 
@@ -58,14 +58,14 @@ Management applications, dashboards, REST APIs, authentication, databases and re
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ Offline OCR & computer vision
+### Offline OCR & computer vision
 
 Local-first pipelines for label detection, text recognition, barcode reading, validation and traceability without internet dependency.
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ Desktop automation
+### Desktop automation
 
 Windows utilities and internal applications built to simplify workflows, centralize information and reduce manual operations.
 
@@ -75,7 +75,7 @@ Windows utilities and internal applications built to simplify workflows, central
 
 ---
 
-## 🧰 Technology stack
+## Technology stack
 
 ### Core development
 
@@ -121,7 +121,7 @@ Windows utilities and internal applications built to simplify workflows, central
 
 ---
 
-## 🔥 Featured work
+## Featured work
 
 <table>
 <tr>
@@ -176,7 +176,7 @@ Windows desktop dashboard for real-time PC hardware monitoring and resource visu
 
 > Some professional and industrial projects cannot be published in full, but I document their architecture, technical decisions and engineering challenges whenever possible.
 
-## 📊 GitHub activity
+## GitHub activity
 
 <div align="center">
 
@@ -196,7 +196,7 @@ Windows desktop dashboard for real-time PC hardware monitoring and resource visu
 
 ---
 
-## 🤝 Let's connect
+## Let's connect
 
 I am interested in software engineering, automation, industrial systems, full stack development and the evolution of secure development practices.
 
