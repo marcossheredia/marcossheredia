@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420" role="img" aria-labelledby="title desc">
 <title id="title">Offline OCR Local Service</title>
 <desc id="desc">Self-contained OCR API for logistics labels, PDFs and TIFF documents in fully offline environments.</desc>
-<rect x="10" y="10" width="540" height="400" rx="18" fill="#1B2235" stroke="#465170" stroke-width="2"/>
-<text x="34" y="62" fill="#FF5C8A" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">Offline OCR Local Service</text>
-<text x="34" y="100" fill="#EAF0F8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Self-contained OCR API for logistics</text><text x="34" y="129" fill="#EAF0F8" font-family="Segoe UI, Arial, sans-serif" font-size="18">labels, PDFs and TIFF documents in fully</text><text x="34" y="158" fill="#EAF0F8" font-family="Segoe UI, Arial, sans-serif" font-size="18">offline environments.</text>
+<rect x="10" y="10" width="540" height="400" rx="18" fill="#03191E" stroke="#738290" stroke-width="2"/>
+<text x="34" y="62" fill="#EBEBEB" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">Offline OCR Local Service</text>
+<text x="34" y="100" fill="#EBEBEB" font-family="Segoe UI, Arial, sans-serif" font-size="18">Self-contained OCR API for logistics</text><text x="34" y="129" fill="#EBEBEB" font-family="Segoe UI, Arial, sans-serif" font-size="18">labels, PDFs and TIFF documents in fully</text><text x="34" y="158" fill="#EBEBEB" font-family="Segoe UI, Arial, sans-serif" font-size="18">offline environments.</text>
 <circle cx="40" cy="316" r="8" fill="#3776AB"/>
-<text x="58" y="322" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Python</text>
-<text x="34" y="374" fill="#A7B3C9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Python · FastAPI · PaddleOCR · OpenCV · Docker</text>
+<text x="58" y="322" fill="#EBEBEB" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Python</text>
+<text x="34" y="374" fill="#738290" font-family="Segoe UI, Arial, sans-serif" font-size="16">Python · FastAPI · PaddleOCR · OpenCV · Docker</text>
 </svg>

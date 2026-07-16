@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420" role="img" aria-labelledby="title desc">
 <title id="title">CSV to SQL Server Importer</title>
 <desc id="desc">Transactional Windows utility for validating and bulk-importing operational CSV data into SQL Server.</desc>
-<rect x="10" y="10" width="540" height="400" rx="18" fill="#1B2235" stroke="#465170" stroke-width="2"/>
-<text x="34" y="62" fill="#FF5C8A" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">CSV to SQL Server Importer</text>
-<text x="34" y="100" fill="#EAF0F8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Transactional Windows utility for</text><text x="34" y="129" fill="#EAF0F8" font-family="Segoe UI, Arial, sans-serif" font-size="18">validating and bulk-importing</text><text x="34" y="158" fill="#EAF0F8" font-family="Segoe UI, Arial, sans-serif" font-size="18">operational CSV data into SQL Server.</text>
+<rect x="10" y="10" width="540" height="400" rx="18" fill="#03191E" stroke="#738290" stroke-width="2"/>
+<text x="34" y="62" fill="#EBEBEB" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">CSV to SQL Server Importer</text>
+<text x="34" y="100" fill="#EBEBEB" font-family="Segoe UI, Arial, sans-serif" font-size="18">Transactional Windows utility for</text><text x="34" y="129" fill="#EBEBEB" font-family="Segoe UI, Arial, sans-serif" font-size="18">validating and bulk-importing</text><text x="34" y="158" fill="#EBEBEB" font-family="Segoe UI, Arial, sans-serif" font-size="18">operational CSV data into SQL Server.</text>
 <circle cx="40" cy="316" r="8" fill="#7C4DFF"/>
-<text x="58" y="322" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">C#</text>
-<text x="34" y="374" fill="#A7B3C9" font-family="Segoe UI, Arial, sans-serif" font-size="16">C# · .NET 8 · WinForms · SqlBulkCopy · SQL Server</text>
+<text x="58" y="322" fill="#EBEBEB" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">C#</text>
+<text x="34" y="374" fill="#738290" font-family="Segoe UI, Arial, sans-serif" font-size="16">C# · .NET 8 · WinForms · SqlBulkCopy · SQL Server</text>
 </svg>
